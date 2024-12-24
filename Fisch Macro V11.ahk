@@ -51,7 +51,7 @@ ShakeMode := "Navigation"
 FishBarColorTolerance := 0
 
 ; Seconds for click shake to be considered failed
-ClickShakeFailsafe := 20
+ClickShakeFailsafe := 1
 ; Color range to scan for "shake" text
 ClickShakeColorTolerance := 1
 ; Delay between each scan in miliseconds
